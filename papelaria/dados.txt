@@ -1,0 +1,7 @@
+codPro descricao qtdEstoque precoUnit
+123 caneta 50 2,00
+456 lapis 40 1,00
+789 caderno 10 10,00
+987 borracha 20 3,00
+654 regua 20 4,00
+321 apontador 60 5,00

@@ -1,0 +1,5 @@
+f v l 12
+m a c 50
+m c p 40
+f a c 30
+f a l 19
